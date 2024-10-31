@@ -1,0 +1,1 @@
+ALTER SEQUENCE client_seq RESTART WITH 11;
