@@ -19,7 +19,8 @@ dependencies {
     implementation group: 'com.h2database', name: 'h2', version: '2.3.232'
     implementation group: 'com.zaxxer', name: 'HikariCP', version: '5.1.0'
     implementation group: 'org.flywaydb', name: 'flyway-core', version: '10.20.1'
-
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: '2.0.16'
+    implementation group: 'org.slf4j', name: 'slf4j-simple', version: '2.0.16'
 }
 
 test {

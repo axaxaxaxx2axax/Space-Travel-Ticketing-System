@@ -1,0 +1,1 @@
+ALTER SEQUENCE ticket_seq RESTART WITH 11;
